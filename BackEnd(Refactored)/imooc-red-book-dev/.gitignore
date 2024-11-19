@@ -1,0 +1,8 @@
+/.DS_Store
+
+# Sensitive configuration files
+
+*.properties
+*.yml
+*.yaml
+*.json
